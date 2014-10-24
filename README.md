@@ -1,3 +1,6 @@
+Dead repository. Use the new version AirRadar at [https://github.com/Ysurac/AirRadar].
+
+
 # "Fork" of Barrie Spotter - Web App
 
 Barrie Spotter is an open source project documenting most of the aircrafts. Browse through the data based on a particular aircraft, airline or airport to search through the database. See extensive statistics such as most common aircraft type, airline, departure & arrival airport and busiest time of the day, or just explore flights.
